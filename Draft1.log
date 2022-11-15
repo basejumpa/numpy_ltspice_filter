@@ -1,0 +1,9 @@
+Circuit: * C:\Users\alexa\git\numpy_ltspice_filter\Draft1.asc
+
+Error on line 2 : v1 n001 0 v
+	 Unknown parameter "v"
+Error on line 3 : r1 n001 y r
+	 Unable to find definition of model "r"
+Error on line 4 : r2 y 0 r
+	 Unable to find definition of model "r"
+Fatal Error: Missing resistance value for "R2"
